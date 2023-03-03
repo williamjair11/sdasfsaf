@@ -5,6 +5,7 @@ using UnityEngine;
 public class afsfa : MonoBehaviour
 {
     // Start is called before the first frame update
+    public int speed = 10;
     void Start()
     {
         
